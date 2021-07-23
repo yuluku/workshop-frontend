@@ -81,3 +81,9 @@ body {
 .normal-content {
     margin-left: 8px;
 }
+
+.center{
+    margin: auto;
+    width: 500px;
+    text-align: center;
+}
